@@ -1,0 +1,89 @@
+html,body,div,span,iframe,h1,h2,h3,h4,h5,p,a,img,ul,li,table,tr,th,td,tbody,footer,header,main,nav,section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+  list-style: none;
+  text-decoration: none;
+}
+.header_logo {
+  min-height: 800px;
+  text-align: center;
+  background: url(https://www.jp.playstation.com/blog/2019/02/20190226-apexlegends-thum.jpg) center
+  top/cover no-repeat;
+}
+.header_logo h1 {
+  color: #fff;
+  padding-top: 300px;
+  font-size: 50px
+}
+.main_image_innner {
+  background-color: #ff0000;
+  text-align: center;
+  color: #fff;
+}
+.scroll {
+  text-align: center;
+  color: #fff;
+  background-color: #ff0000;
+}
+.main {
+  padding: 100px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #ccff33;
+}
+.kyara {
+  float: left;
+}
+.play {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.playing {
+  float: right;
+}
+.photo02 {
+  float: right;
+  height: 400px;
+  width: 300px;
+  padding-right: 200px;
+  padding-top: 20px;
+}
+.left-text {
+  padding-left: 250px;
+  padding-top: 100px;
+  font-size: 30px;
+}
+.photo03 {
+  position: absolute;
+  top: 1550px;
+  right: 90px;
+}
+.left-text2 {
+  padding-left: 250px;
+  padding-top: 100px;
+  font-size: 30px;
+}
+.message-wrapper {
+  text-align: center;
+  padding-top: 200px;
+}
+.btn-wrapper {
+  text-align: center;
+  font-size: 30px;
+}
+.btn {
+  display: inline-block;
+  border-radius: 4px;
+  color: #fff;
+}
+.btn:hover {
+  opacity: 1;
+}
+.twitter {
+  background-color: #55acee;
+}
+.fa {
+  margin-right: 10px;
+}
